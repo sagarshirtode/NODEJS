@@ -1,0 +1,5 @@
+DB = mongodb
+node = v20.9.0
+task = rest apis
+https://youtu.be/zXbPRAlCsrk?si=uLuWUkeWSDzxM0ER
+oprations = CURD
